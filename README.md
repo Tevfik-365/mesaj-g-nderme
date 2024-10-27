@@ -1,1 +1,1 @@
-this code is a message sending simulation
+this code is a message sending simulation.
